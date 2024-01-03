@@ -32,3 +32,4 @@ print("Number of columns:",len(df.axes[1]))
 ![WhatsApp Image 2024-01-02 at 23 14 37_7bd58ab8](https://github.com/Saiguruchandran/Read-from-CSV/assets/144870946/f40422aa-e180-4027-99e8-d6019c212d3a)
 
 ## RESULT:
+Thus the program is written to copy the contents from one file to another file
